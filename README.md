@@ -10,7 +10,9 @@ Creativo Multidisciplinario de Metán-Salta, vivo en Buenos Aires y estudio la �
 ### **🙌🏼 𝐐𝐔𝐄 𝐏𝐔𝐄𝐃𝐎 𝐀𝐏𝐎𝐑𝐓𝐀𝐑:**
 Predisposición por aprender habilidades que den como resultado adaptarme de forma óptima y moderna al equipo, como así también poder cubrir el área que se precise para sacar adelante el desarrollo de cualquier proyecto o problema que se presente.
 
-### **💻𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 𝐐𝐔𝐄 𝐔𝐓𝐈𝐋𝐈𝐙𝐎: (𝐒𝐀𝐏𝐏𝐇𝐈𝐑𝐄 𝐒𝐓𝐔𝐃𝐈𝐎𝐒)**
+### **💻𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 𝐐𝐔𝐄 𝐔𝐓𝐈𝐋𝐈𝐙𝐎: (Sapphire Studios)**
+
+**𝐁𝐞𝐝𝐫𝐨𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫⚡**
 - C++
 - Visual Studio Code
 - Bedrock Engine
