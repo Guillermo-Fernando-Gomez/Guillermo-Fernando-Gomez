@@ -1,6 +1,6 @@
 # **💬Hola, soy 𝗚𝘂𝗶𝗹𝗹𝗲𝗿𝗺𝗼 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗼 𝗚𝗼𝗺𝗲𝘇🎯**
 
-### **💡 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈:✅👨🏻‍💻**  <img align="right" width="150" src="https://media.licdn.com/dms/image/C4D0BAQGMrwy8MHs7ow/company-logo_100_100/0/1612461770990/uade_logo?e=1706745600&v=beta&t=e9mtmrMinL1nsXzr6YQATgEjasHjejww1C2qYDFVsDw">
+### **💡 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈:✅👨🏻‍💻**  <img align="right" width="90" src="https://media.licdn.com/dms/image/C4D0BAQGMrwy8MHs7ow/company-logo_100_100/0/1612461770990/uade_logo?e=1706745600&v=beta&t=e9mtmrMinL1nsXzr6YQATgEjasHjejww1C2qYDFVsDw">
 
 Creativo Multidisciplinario de Metán-Salta, vivo en Buenos Aires y estudio la 𝗟𝗶𝗰𝗲𝗻𝗰𝗶𝗮𝘁𝘂𝗿𝗮 𝗲𝗻 𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝗱𝗲 𝗩𝗶𝗱𝗲𝗼𝗷𝘂𝗲𝗴𝗼𝘀 en 𝐔𝐀𝐃𝐄 mientras me capacito de modo autodidacta, con cursos y certificaciones que me permitan mejorar la calidad de mis trabajos y la experiencia que genero a través de ellos, será apresurado decir que soy un Desarrollador de Videojuegos en el motor gráfico 𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 pero destino mi tiempo en llegar a serlo. 
 
