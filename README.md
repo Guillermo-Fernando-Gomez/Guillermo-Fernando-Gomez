@@ -1,3 +1,5 @@
+<img align="center" width="2000" height= "20" src="https://mir-s3-cdn-cf.behance.net/0179946242389b106e39731094459ccd/48d28264-9697-4e01-acc7-3687596a4221_rwc_0x0x1920x359x1920.jpg?h=8f0adb9a8298af147c18d687b7ad73f3">
+
 # **💬Hola, soy 𝗚𝘂𝗶𝗹𝗹𝗲𝗿𝗺𝗼 𝗙𝗲𝗿𝗻𝗮𝗻𝗱𝗼 𝗚𝗼𝗺𝗲𝘇🎯**
 
 ### **💡 𝐒𝐎𝐁𝐑𝐄 𝐌𝐈:✅👨🏻‍💻**  <img align="right" width="90" src="https://media.licdn.com/dms/image/C4D0BAQGMrwy8MHs7ow/company-logo_100_100/0/1612461770990/uade_logo?e=1706745600&v=beta&t=e9mtmrMinL1nsXzr6YQATgEjasHjejww1C2qYDFVsDw">
@@ -59,3 +61,5 @@ Si tenés cualquier pregunta, inquietud o simplemente te gustó mi perfil o est�
 <ul>
   <li><a href="https://www.behance.net/gallery/162203861/3D-Environment-Casa-de-Gran-Hermano-Unreal-Engine"><b>Hi, 3D-Environment-Casa-de-Gran-Hermano-Unreal-Engine</b></a><br/><i>first Project In Unreal Engine.</i></li>
 </ul>
+
+<img align="center" width="2000" height= "20" src="https://mir-s3-cdn-cf.behance.net/0179946242389b106e39731094459ccd/48d28264-9697-4e01-acc7-3687596a4221_rwc_0x0x1920x359x1920.jpg?h=8f0adb9a8298af147c18d687b7ad73f3">
